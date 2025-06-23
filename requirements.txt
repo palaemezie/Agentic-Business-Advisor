@@ -1,0 +1,17 @@
+# Core framework
+streamlit
+
+# AI and ML
+crewai
+crewai-tools
+langchain-openai
+langchain-community
+pydantic
+
+# Environment and configuration
+python-dotenv
+
+# Web scraping and search
+requests
+beautifulsoup4
+duckduckgo-search
